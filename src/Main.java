@@ -35,7 +35,7 @@ public class Main {
         Orange[] oranges = new Orange[]{new Orange(10), new Orange(20)};
         Apple[] apples = new Apple[]{new Apple(10), new Apple(30)};
         Orange[] oranges1 = new Orange[]{new Orange(10), new Orange(20), new Orange(30), new Orange(40)};
-        Apple[] apples1 = new Apple[]{new Apple(10), new Apple(20), new Apple(30)};
+        Apple[] apples1 = new Apple[]{new Apple(10), new Apple(20), new Apple(30), new Apple(40), new Apple(50)};
 
         boxApples.put(apples);
         boxOranges.put(oranges);
